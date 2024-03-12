@@ -8,10 +8,10 @@ Find me at:
 * [Blog](https://www.ryanvanmassenhoven.com) - all the things you can do with our containers including How-To guides, opinions and much more!
 * [GitHub](https://github.com/ryanvanmass) - view the source for all of our repositories.
 
-[![GitHub Stars](https://img.shields.io/github/stars/ryanvanmass/docker-unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/linuxserver/docker-unifi-controller)
-[![GitHub Release](https://img.shields.io/github/release/ryanvanmass/docker-unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/linuxserver/docker-unifi-controller/releases)
-[![Docker Pulls](https://img.shields.io/docker/pulls/ryanvanmass/unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/linuxserver/unifi-controller)
-[![Docker Stars](https://img.shields.io/docker/stars/ryanvanmass/unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=stars&logo=docker)](https://hub.docker.com/r/linuxserver/unifi-controller)
+[![GitHub Stars](https://img.shields.io/github/stars/ryanvanmass/docker-unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/ryanvanmass/docker-unifi-controller)
+[![GitHub Release](https://img.shields.io/github/release/ryanvanmass/docker-unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/ryanvanmass/docker-unifi-controller/releases)
+[![Docker Pulls](https://img.shields.io/docker/pulls/ryanvanmass/unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/ryanvanmass/unifi-controller)
+[![Docker Stars](https://img.shields.io/docker/stars/ryanvanmass/unifi-controller.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=stars&logo=docker)](https://hub.docker.com/r/ryanvanmass/unifi-controller)
 
 The [Unifi-controller](https://www.ubnt.com/enterprise/#unifi) software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.
 
