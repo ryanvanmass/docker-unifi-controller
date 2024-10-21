@@ -37,8 +37,8 @@ This image provides various versions that are available via tags. Please read th
 
 | Tag | Available | Description |
 | :----: | :----: |--- |
-| latest | ❌ | Stable Unifi Controller releases. |
-| 8.0.26 | ✅ | Unifi Controller Version 8.0.26 |
+| latest | ✅ | Stable Unifi Controller releases. |
+| 8.5.6 | ✅ | Unifi Controller Version 8.0.26 |
 
 ## Application Setup
 
