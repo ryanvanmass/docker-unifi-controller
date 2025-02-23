@@ -3,9 +3,9 @@
 FROM ghcr.io/linuxserver/baseimage-ubuntu:focal
 
 # set version label
-ARG BUILD_DATE="12/14/2024"
-ARG VERSION="8.6.9"
-ARG UNIFI_VERSION="8.6.9"
+ARG BUILD_DATE="2/22/2025"
+ARG VERSION="9.0.114"
+ARG UNIFI_VERSION="9.0.114"
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="ryanvanmass"
 
